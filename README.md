@@ -6,5 +6,5 @@
 
 <p>You Can See My Online Project</p>
 
-<a href="https://mortezabaghfar2005.github.io/Lagin/">Online Project Kajoo</a>
+<a href="https://mortezabaghfar2005.github.io/Lagin/">Online Project Login</a>
 
